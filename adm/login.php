@@ -31,7 +31,7 @@ if(!empty($_POST['email'])){
         <label for="senha">Senha:</label>
         <input type="password" name="senha" id="senha" class="form-control">
     </div>
-    <input type="submit" value="Fazer login" class= "btn btn-default">
+    <input type="submit" value="Fazer login" class= "btn btn-success">
 
 </form>
 
