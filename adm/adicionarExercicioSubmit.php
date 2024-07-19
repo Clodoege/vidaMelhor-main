@@ -1,5 +1,5 @@
 <?php
-include 'clasess/exercicios.class.php';
+include 'classes/exercicios.class.php';
 $exercicio = new Exercicios();
 
 if(!empty($_POST['nome'])){
